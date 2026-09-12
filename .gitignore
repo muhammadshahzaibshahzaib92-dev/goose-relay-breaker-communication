@@ -1,0 +1,3 @@
+libs/libiec61850/
+__pycache__/
+*.pyc
